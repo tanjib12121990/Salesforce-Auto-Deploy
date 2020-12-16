@@ -121,3 +121,4 @@ Now that's all. It is done.
 
 Change your build.xml and build.properties to suit your needs and start playing with it
 #testing jenkins trigger
+#Again testing jenkins trigger, must be succesfull
