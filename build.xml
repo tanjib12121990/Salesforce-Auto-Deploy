@@ -1,11 +1,11 @@
 <project name="test" default="sync" xmlns:sf="antlib:com.salesforce">
 	<property environment="env"/>
-	<property name="sf.username"      value="${env.username}"/>
-	<property name="sf.password"      value="${env.password}"/>
+	<property name="sf.username"      value="${ktrizwan2011@gmail.com}"/>
+	<property name="sf.password"      value="${Colorado2020#1}"/>
 	<property name="sf.clientId"      value="${env.clientId}"/>
 	<property name="sf.clientSecret"      value="${env.clientSecret}"/>
 	<property name="sf.refreshToken"      value="${env.refreshToken}"/>
-	<property name="sf.serverurl"      value="${env.serverurl}"/>
+	<property name="sf.serverurl"      value="${https://d4x0000032b2eeae-dev-ed.lightning.force.com/lightning/page/home}"/>
 	<property name="sf.branch"      value="${env.branch}"/>
 	<property name="canDeploy" value="false"/>
 	
